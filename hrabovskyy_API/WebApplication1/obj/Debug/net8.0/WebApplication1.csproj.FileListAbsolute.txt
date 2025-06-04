@@ -1,0 +1,64 @@
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/appsettings.Development.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/appsettings.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/WebApplication1
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/WebApplication1.deps.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/WebApplication1.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/WebApplication1.pdb
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets.development.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication1.props
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/staticwebassets.pack.json
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/Volumes/KINGSTON hrabovskyy/Курсова/API/hrabovskyy/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/appsettings.Development.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/appsettings.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1.staticwebassets.endpoints.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1.deps.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1.runtimeconfig.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/WebApplication1.pdb
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/scopedcss/bundle/WebApplication1.styles.css
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/staticwebassets.development.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebAppli.7D14BD69.Up2Date
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/refint/WebApplication1.dll
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.pdb
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/WebApplication1.genruntimeconfig.cache
+/home/turbokwaka/proj/hrabovskyy_API/WebApplication1/obj/Debug/net8.0/ref/WebApplication1.dll

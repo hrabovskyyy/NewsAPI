@@ -1,64 +1,83 @@
 # 📰 NewsAPI
 
+[![.NET](https://img.shields.io/badge/.NET-7.0-blue?logo=dotnet&style=flat-square)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![NewsAPI](https://img.shields.io/badge/Powered%20by-NewsAPI.org-blue?style=flat-square)](https://newsapi.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-**NewsAPI** — це ASP.NET Core Web API, що дозволяє отримувати актуальні новини з публічного API [NewsAPI.org](https://newsapi.org), зберігати улюблені новини користувачів і додавати до них нотатки. Ідеально підходить як основа для Telegram-бота або мобільного застосунку новин.
+---
+
+**NewsAPI** — це ASP.NET Core Web API, що дозволяє отримувати актуальні новини з публічного API [NewsAPI.org](https://newsapi.org), зберігати улюблені новини користувачів і додавати до них нотатки.  
+Ідеально підходить як бекенд для Telegram-бота або мобільного застосунку новин.
 
 ---
 
 ## 🚀 Функціонал
 
-- 🔍 Пошук новин за ключовим словом, країною або категорією
-- 💾 Додавання новин до списку улюблених
-- 📝 Можливість додати нотатку до збереженої новини
-- ✏️ Редагування нотатки до новини
-- 🗑️ Видалення улюбленої новини
-- 📄 Отримання списку всіх улюблених новин
+- 🔎 Пошук новин за ключовим словом, країною або категорією
+- 💾 Додавання новин до обраного
+- 📝 Додавання / редагування нотаток
+- 🗑️ Видалення новин
+- 📄 Перегляд усього списку улюблених
 
 ---
 
 ## 🛠 Технології
 
-- ASP.NET Core 7 Web API
-- C# / .NET
-- NewsAPI.org інтеграція
-- Swagger (автоматична документація)
-- Dependency Injection (`INewsService`)
-- DTO-шари (`AddFavoriteDto`, `UpdateFavoriteNoteDto`)
-- Локальна конфігурація `appsettings.json` для API-ключа
+| Технологія            | Опис |
+|------------------------|------|
+| ![.NET](https://img.shields.io/badge/.NET-7.0-purple?logo=dotnet) | Web API платформа |
+| ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | Основна мова |
+| ![Swagger](https://img.shields.io/badge/Swagger-UI-green?logo=swagger&logoColor=white) | Документація API |
+| ![NewsAPI](https://img.shields.io/badge/API-NewsAPI.org-lightblue?logo=rss&logoColor=white) | Джерело новин |
+| 💡 Dependency Injection | Через `INewsService` |
+| 📦 DTO-шари            | `AddFavoriteDto`, `UpdateFavoriteNoteDto` |
+| ⚙️ appsettings.json    | Зберігання ключа API |
 
 ---
 
-## 📁 Основні компоненти
+## 📁 Структура
 
-| Файл / Клас                 | Призначення |
-|----------------------------|-------------|
-| `Program.cs`               | Конфігурація сервісів і запуск застосунку |
-| `NewsController.cs`        | Отримання новин через NewsAPI |
-| `FavoritesController.cs`   | CRUD-операції з улюбленими новинами |
-| `NewsService.cs` / `INewsService.cs` | Сервіс взаємодії з NewsAPI |
-| `AddFavoriteDto.cs`, `UpdateFavoriteNoteDto.cs` | DTO-моделі для взаємодії |
-| `FavoriteNewsItem.cs`, `NewsItem.cs`, `NewsApiResponse.cs` | Моделі даних |
-| `NewsApiOptions.cs`        | Конфігурація API-ключа через DI |
-| `appsettings.json`         | Зберігання ключа до NewsAPI |
-| `launchSettings.json`      | Налаштування запуску проєкту (Swagger, порти) |
+```
+📁 Controllers/
+    ├── NewsController.cs
+    └── FavoritesController.cs
 
----
+📁 Services/
+    ├── INewsService.cs
+    └── NewsService.cs
 
-## 📦 Приклад запитів
+📁 Models/
+    ├── NewsItem.cs
+    ├── FavoriteNewsItem.cs
+    └── NewsApiResponse.cs
 
-```http
-GET /api/news?q=technology&country=us
-POST /api/favorites
-PUT /api/favorites/{id}
-DELETE /api/favorites/{id}
-GET /api/favorites
+📁 DTOs/
+    ├── AddFavoriteDto.cs
+    └── UpdateFavoriteNoteDto.cs
+
+📄 Program.cs
+📄 appsettings.json
+📄 launchSettings.json
 ```
 
 ---
 
-## 🧪 Запуск локально
+## 🔗 Приклади запитів
 
-1. Скопіюйте `.env` або додайте у `appsettings.json`:
+```http
+GET     /api/news?q=technology&country=us
+POST    /api/favorites
+PUT     /api/favorites/{id}
+DELETE  /api/favorites/{id}
+GET     /api/favorites
+```
+
+---
+
+## 🧪 Локальний запуск
+
+1. 🔑 Додай API ключ у `appsettings.json`:
 ```json
 {
   "NewsApi": {
@@ -67,25 +86,26 @@ GET /api/favorites
 }
 ```
 
-2. Запустіть:
+2. ▶️ Запусти проєкт:
 ```bash
 dotnet run
 ```
 
-3. Відкрийте Swagger:
+3. 🌐 Swagger:
 ```
 https://localhost:7102/swagger
 ```
 
 ---
 
+## 📜 Ліцензія
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)  
+Цей проєкт ліцензовано під MIT License.
+
 ---
 
-## 📄 Ліцензія
+## 👨‍💻 Автор
 
-Цей проєкт ліцензовано під MIT License — див. файл [LICENSE](LICENSE) для деталей.
-
----
-
-## 💡 Автор
-Розроблено як курсовий проєкт студентом у 2025 році.
+🧑‍🎓 Курсовий проєкт студента КПІ (2025)  
+💡 Ідеальний бекенд для Telegram-бота або новинного застосунку.
